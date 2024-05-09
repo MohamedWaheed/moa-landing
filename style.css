@@ -7,6 +7,10 @@ body{
     background-color: #1d1d1d;
 }
 
+[if Webkit]body{
+    background: #171717;
+}
+
 .def{
     font-family: "Neutra Display Light", sans-serif;
     font-size: 32px;
