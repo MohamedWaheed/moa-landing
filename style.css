@@ -27,7 +27,7 @@ body{
 
 @media (max-width: 428px) {
   .container {
-      height: 200vw;
+      height: 250vw;
   }
 
   .container img{
@@ -37,7 +37,7 @@ body{
 
 @media (max-width: 810px) {
   .container {
-      height: 150vw;
+      height: 200vw;
   }
 
   .container img{
