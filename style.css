@@ -1,20 +1,5 @@
-@font-face {
-  font-family: "Neutra Display Light";
-  src: url('Neutra Display Light.otf');
-}
-
 body{
-    background-color: #1d1d1d;
-}
-
-.def{
-    font-family: "Neutra Display Light", sans-serif;
-    font-size: 32px;
-    font-weight: 900;
-    color: #482c20;
-    text-align: center;
-    text-align-last: center;
-    margin-top: 50px;
+    background-color: #161616;
 }
 
 .container {
@@ -30,7 +15,7 @@ body{
       height: 235vw;
   }
 
-  .container img{
+  .container svg{
     max-width: 50%;
   }
 }
@@ -40,7 +25,7 @@ body{
       height: 185vw;
   }
 
-  .container img{
+  .container svg{
     max-width: 50%;
   }
 }
